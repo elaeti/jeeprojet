@@ -1,0 +1,24 @@
+{
+  "constructionApp": {
+    "etage": {
+      "home": {
+        "title": "Etages",
+        "createLabel": "Créer un nouveau Etage",
+        "createOrEditLabel": "Créer ou éditer un Etage",
+        "notFound": "Aucun Etage trouvé"
+      },
+      "created": "Un nouveau Etage a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Etage avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Etage avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Etage {{ id }} ?"
+      },
+      "detail": {
+        "title": "Etage"
+      },
+      "numeroetage": "Numeroetage",
+      "appartement": "Appartement",
+      "batiment": "Batiment"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "constructionApp": {
+    "etage": {
+      "home": {
+        "title": "Etages",
+        "createLabel": "Create a new Etage",
+        "createOrEditLabel": "Create or edit a Etage",
+        "notFound": "No Etages found"
+      },
+      "created": "A new Etage is created with identifier {{ param }}",
+      "updated": "A Etage is updated with identifier {{ param }}",
+      "deleted": "A Etage is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Etage {{ id }}?"
+      },
+      "detail": {
+        "title": "Etage"
+      },
+      "numeroetage": "Numeroetage",
+      "appartement": "Appartement",
+      "batiment": "Batiment"
+    }
+  }
+}
